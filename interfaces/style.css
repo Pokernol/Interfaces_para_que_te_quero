@@ -1,0 +1,76 @@
+
+
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(26,27,54,1) 15%, rgba(29,37,98,1) 35%, rgba(37,51,131,1) 52%, rgba(43,62,170,1) 78%, rgba(41,64,195,1) 92%);
+}
+
+img{
+    border-radius: 10px;
+    position: relative;
+    display: flex;
+    left: 290px;
+}
+
+img:hover{
+   transform:scale(1.1);
+   transition:2s;
+}
+.CNN2001{
+    background-color: rgb(226, 226, 226);
+    color: black;
+    font-size: 17px;
+    width: 120px;
+    height: 20px;
+    text-align: center;
+    position: relative;
+    margin-left: 240px;
+    bottom: 17px;
+}
+p{
+    width: 100vh;
+    position: relative;
+    left: 30%;
+    color: rgb(190, 190, 190);
+}
+.iframe2001{
+    margin: -4px;
+}
+h1{
+
+    width: 100vh;
+    position: relative;
+    left: 30%;
+    color: rgb(228, 228, 228);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+h3{
+    width: 100vh;
+    position: relative;
+    left: 30%;
+    color: rgb(212, 212, 212);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button{
+    width: 200px;
+    height: 30px;
+    position: relative;
+    bottom: 50px;left: 600px;
+    background-color: rgba(119, 119, 119, 0.233);
+    border-radius: 3px;
+    border-color: rgb(26, 26, 124);
+    border-radius: 5px;
+}
+a{
+    color: black;
+}
+button:hover{
+    background-color: rgba(0, 0, 0, 0.26);
+    transform: scale(1.03);
+}
+hr{border-color: hsla(240, 100%, 94%, 0.404);
+    width: 1000px;
+}
+
+
+
